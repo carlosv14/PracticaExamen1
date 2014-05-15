@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1400129518 source:/home/cvarela/Desktop/PROGRA3/practica/main.cpp
+	<iostream>
+	"Personaje.h"
+	"Mago.h"
+	"arquero.h"
+	"Guerrero.h"
+	<fstream>
+
+1400127666 source:/home/cvarela/Desktop/PROGRA3/practica/Mago.cpp
+	"Mago.h"
+	<iostream>
+	<fstream>
+
+1400129518 /home/cvarela/Desktop/PROGRA3/practica/Mago.h
+	"Personaje.h"
+	<iostream>
+
+1400129518 /home/cvarela/Desktop/PROGRA3/practica/Personaje.h
+	<iostream>
+
+1400122476 source:/home/cvarela/Desktop/PROGRA3/practica/Personaje.cpp
+	"Personaje.h"
+
+1400128938 source:/home/cvarela/Desktop/PROGRA3/practica/arquero.cpp
+	"arquero.h"
+
+1400129518 /home/cvarela/Desktop/PROGRA3/practica/arquero.h
+	<iostream>
+	"Personaje.h"
+	<fstream>
+
+1400127675 source:/home/cvarela/Desktop/PROGRA3/practica/Guerrero.cpp
+	"Guerrero.h"
+
+1400129518 /home/cvarela/Desktop/PROGRA3/practica/Guerrero.h
+	<iostream>
+	"Personaje.h"
+	<fstream>
+
